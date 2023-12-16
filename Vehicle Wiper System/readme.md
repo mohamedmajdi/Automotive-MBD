@@ -4,7 +4,7 @@
 ![](requirement1.PNG)
 
 ## Project Requirements: control system logic
-![](control_logic.png)
+![](control_logic.PNG)
 
 ## Simulink System Modelling: Root level
-![](simulink_model.png)
+![](simulink_model.PNG)
