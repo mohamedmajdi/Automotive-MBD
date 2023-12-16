@@ -23,3 +23,9 @@
 <br>
 ![](results.PNG)
 
+## Code Generation
+
+
+
+https://github.com/mohamedmajdi/Automotive-MBD/assets/69417860/7ace0a1c-c196-4917-83c7-ac274988b360
+
